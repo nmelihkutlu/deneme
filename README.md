@@ -1,2 +1,1 @@
-# Deneme Dosyaları
-Github öğrenmek için kullandığım geçici dosyalar.
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo
